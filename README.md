@@ -4,7 +4,9 @@
  📑 학습강좌: 의료 빅데이터 분석 및 자바 S/W 개발자 과정 (스프링, 파이썬)
 
     - 학습기간: 2023.05~2023.10
-    - 주요 학습 언어 : 
+    - 주요 학습 언어
+    <img src="https://img.shields.io/badge/#47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    JAVA, MySQL, python, mongoDB, 
 
 👀 personal project
 
