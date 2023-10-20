@@ -25,8 +25,7 @@
 
 주요 업무: PM, 영양제 관련 table DB 구축 및 RestAPI로 영양제 관련 서비스 하기
 
-
-     [1stProject_README](https://sssanga.github.io/project_nutrients/)
+[1stProject_README](https://sssanga.github.io/project_nutrients/)
 
 
 2nd: 데이터 수집 및 ML 예측 서비스 
@@ -35,8 +34,7 @@
 주요 업무: 댓글 수집 및 데이터 전처리 후 FastAPI 예측 서비스 띄우기
 
 
-
-     [2ndProject_dataAnalytics_README](https://github.com/araya1203/project_nutrients_data_analytics#readme)
+[2ndProject_dataAnalytics_README](https://github.com/araya1203/project_nutrients_data_analytics#readme)
 
 
 
