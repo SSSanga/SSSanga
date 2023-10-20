@@ -26,7 +26,7 @@
 주요 업무: PM, 영양제 관련 table DB 구축 및 RestAPI로 영양제 관련 서비스 하기
 
 
-[1stProject_README](https://sssanga.github.io/project_nutrients/)
+     [1stProject_README](https://sssanga.github.io/project_nutrients/)
 
 
 2nd: 데이터 수집 및 ML 예측 서비스 
@@ -36,7 +36,7 @@
 
 
 
-[2ndProject_dataAnalytics_README](https://github.com/araya1203/project_nutrients_data_analytics#readme)
+     [2ndProject_dataAnalytics_README](https://github.com/araya1203/project_nutrients_data_analytics#readme)
 
 
 
@@ -49,18 +49,18 @@
 
 - project_1: 디스크 환자들의 입원 기간에 영향을 미치는 요인들은??
 
-[Project_1](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest1/README.md)
+     [Project_1](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest1/README.md)
 
 
-[Project_1_personal](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest1/KSA_README.md)
+     [Project_1_personal](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest1/KSA_README.md)
 
 
 - project_2: 고혈압 환자군에서 심결본인부담금에 영향을 미치는 요인들은??
 
-[Project_2](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest2/README.md)
+     [Project_2](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest2/README.md)
 
 
-[Project_2_personal](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest2/KSA_README.md)
+     [Project_2_personal](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest2/KSA_README.md)
 
 
 **toy_machinelearning**
@@ -68,6 +68,6 @@
 
 - 디스크환자의 통증정도를 다른 수치들을 통해 예측 서비스를 제공(FastAPI)
 
-[Prediction_Service](https://sssanga.github.io/toy_machinelearning/)
+     [Prediction_Service](https://sssanga.github.io/toy_machinelearning/)
 
 
