@@ -1,10 +1,10 @@
- 👋 I’m @SSSanga
+ 👋 **I’m @SSSanga**
 
 
- 📑 학습강좌
+ 📑 **학습강좌**
    
     
-의료 빅데이터 분석 및 자바 S/W 개발자 과정 (스프링, 파이썬)
+**의료 빅데이터 분석 및 자바 S/W 개발자 과정 (스프링, 파이썬)**
 
 학습기간: 2023.05~2023.10
  
@@ -14,10 +14,10 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 
 
-✨ Collaboration with the Application Team ✨ 
+✨ **Collaboration with the Application Team** ✨ 
 
 
-[project_nutrient]
+**project_nutrient**
 
 
 1st: 웹사이트 구현
@@ -42,10 +42,10 @@
 
 
 
-🤹toy_project
+🤹**toy_project**
 
 
-[toy_data_analysiss]
+**toy_data_analysiss**
 
 - project_1: 디스크 환자들의 입원 기간에 영향을 미치는 요인들은??
 
@@ -63,7 +63,7 @@
 [Project_2_personal](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest2/KSA_README.md)
 
 
-[toy_machinelearning]
+**toy_machinelearning**
 
 
 - 디스크환자의 통증정도를 다른 수치들을 통해 예측 서비스를 제공(FastAPI)
