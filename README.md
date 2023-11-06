@@ -66,13 +66,13 @@
 
 - [project_1: 디스크 환자들의 입원 기간에 영향을 미치는 요인들은??](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest1/README.md)
 
-     [Project_1_personal](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest1/KSA_README.md)
+     [Project_1_personal](https://github.com/KKKKKIKKKK/toy_data_analysiss/tree/main/codes/quest1/%EA%B9%80%EC%83%81%EC%95%84)
 
 
 - [project_2: 고혈압 환자군에서 심결본인부담금에 영향을 미치는 요인들은??](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest2/README.md)
 
 
-     [Project_2_personal](https://github.com/KKKKKIKKKK/toy_data_analysiss/blob/main/codes/quest2/KSA_README.md)
+     [Project_2_personal](https://github.com/KKKKKIKKKK/toy_data_analysiss/tree/main/codes/quest2/%EA%B9%80%EC%83%81%EC%95%84)
 
 
 **toy_machinelearning**
