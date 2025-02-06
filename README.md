@@ -1,11 +1,8 @@
 ##  👋 **I’m @SSSanga**
 
-<head>
-   
-### 📑 **학습강좌**   
-**의료 빅데이터 분석 및 자바 S/W 개발자 과정 (스프링, 파이썬)**
-
-학습기간: 2023.05~2023.10
+<details>
+   <summary>**의료 빅데이터 분석 및 자바 S/W 개발자 과정 (스프링, 파이썬)**</summary>
+   학습기간: 2023.05~2023.10
  
    - 주요 학습 언어
 
@@ -50,10 +47,19 @@
 
      [Project_2_personal](https://github.com/KKKKKIKKKK/toy_data_analysiss/tree/main/codes/quest2/%EA%B9%80%EC%83%81%EC%95%84)
 
-
 **toy_machinelearning**
 
 
 - [디스크환자의 통증정도를 다른 수치들을 통해 예측 서비스를 제공(FastAPI)](https://sssanga.github.io/toy_machinelearning/)
+  
+</details>
+
+   
+
+
+
+
+
+
 
 
