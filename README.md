@@ -10,7 +10,7 @@
 <details>
    <summary> Project list </summary>
 
-### **✨ Collaboration with the Application Team **
+### ✨ **Collaboration with the Application Team**
 
 #### **project_nutrient**
 
